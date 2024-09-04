@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DepA3T2/1.0.0": {
+        "runtime": {
+          "DepA3T2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DepA3T2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
